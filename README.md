@@ -2115,7 +2115,7 @@ Areas of interest include:
 
 Stay connected and follow my learning journey.
 
-- GitHub: https://github.com/shaikbasha-dev
+- GitHub: https://github.com/smbashadev
 - LinkedIn: https://www.linkedin.com/in/shaikbasha-dev/
 - Email: smbashadev@gmail.com
 
